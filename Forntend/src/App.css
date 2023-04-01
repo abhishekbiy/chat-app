@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+
+.App{
+    background-image: url("Images/login-background.jpg") ;
+    
+}

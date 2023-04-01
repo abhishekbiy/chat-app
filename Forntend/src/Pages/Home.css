@@ -1,0 +1,12 @@
+.homeBG{
+    background-image: url(https://images.unsplash.com/photo-1672076292491-28ef139f5e5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1899&q=80);
+    height: 92vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+.home-message-icon{
+    margin-left: 10px;
+    display: inline-block;
+}
